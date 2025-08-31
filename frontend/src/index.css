@@ -11,3 +11,30 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.nav-link{
+  margin-left: 30px;
+}
+
+.footer-link a{
+  text-decoration: none;
+  color: black;
+}
+
+.pricing-box{
+  display: inline-block;
+  margin: 0px;
+}
+
+.pricing-box p{
+  display: inline-block;
+  font-size: 10px;
+  margin: 0;
+  line-height: 16px;
+}
+
+.pricing-box img{
+  display: inline-block;
+  position: relative;
+  width: 85px;
+}
